@@ -5,5 +5,9 @@ for (let i = 0; i<100; i++){
     if(i % 3 == 0) {
         console.log('Fizz')
     }
+    // verifica numeri divisibili per 5
+    if (i % 5 == 0){
+        console.log('Buzz')
+    }
     console.log(i + 1)
 }

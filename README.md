@@ -13,3 +13,5 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
 1-creo il ciclo che mi permette di stampare tutti i numeri da 1 a 100
+2-creo la verifica che determina i numeri divisibili per 3
+3-creo la verifica che determina i numeri divisibili per 5
