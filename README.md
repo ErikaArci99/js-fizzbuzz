@@ -16,3 +16,5 @@ Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 2-creo la verifica che determina i numeri divisibili per 3
 3-creo la verifica che determina i numeri divisibili per 5
 4- nella verifica del 3 aggiungo quella da 5 così che i numeri divisibili per entrambi i numeri vengano stampati con FizzBuzz
+
+ESERCIZIO TERMINATO
